@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+- **About Me**: AI engineer 🤖 | Always eager to learn 📚 | Passionate about technology 💻 and amazed by how much it’s evolved over the past decade ⏳ | Excited about a career where I can make an impact and drive change 🌍✨
+- **⚡ Fun fact**: During my studies, I’d dream about exam questions and their exact answers, and they’d match the real test!
 <!--
 **RolaAM/RolaAM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
